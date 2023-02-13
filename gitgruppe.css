@@ -1,14 +1,12 @@
 body {
   background-color: rgb(214, 210, 188) ;
 }
-
 h1 {
     background-image: linear-gradient(red, yellow);
     color: white;
     font-family: sans-serif;
     text-align: center;
 }
-
-p {
+p, ol, ul {
   font-family: Arial, Helvetica, sans-serif;
 }
