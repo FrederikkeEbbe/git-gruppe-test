@@ -5,6 +5,6 @@ h1 {
     color: white;
     font-family: sans-serif;
 }
-p {
+p, ol, ul {
   font-family: Arial, Helvetica, sans-serif;
 }
