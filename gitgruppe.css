@@ -3,8 +3,10 @@ body {
 }
 
 h1 {
+    background-image: linear-gradient(red, yellow);
     color: white;
     font-family: sans-serif;
+    text-align: center;
 }
 
 p {
